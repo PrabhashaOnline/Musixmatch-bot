@@ -1,3 +1,3 @@
 TOKEN = '5173162342:AAFyg6s6GfDGIWgaUBcdiS988WaVToowtlQ'
 admin_id = '1469528232'
-log_id = -1001461928414
+log_id = '-1001461928414'
